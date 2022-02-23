@@ -13,3 +13,4 @@ I've design two pages one is the product page with a search bar at the top then 
 
 ### Furniture App Final UI
 
+![furniture](https://user-images.githubusercontent.com/36065206/155359096-ad3fb10c-7bbc-47bc-b5be-6ab2f2069e26.png)
